@@ -1,0 +1,1 @@
+print("да") if int(input('Введите день недели: ')) in (6, 7) else print("нет")
